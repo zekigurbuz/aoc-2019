@@ -1,4 +1,4 @@
-# Advent of Code 2019
+# __Advent of Code 2019 (Java) Solutions__
 ### This is a compilation of my solutions to the 2019 Advent of Code competitive programming competition.
 ### The programs are split up into days just as they are on the [Advent of Code website](https://adventofcode.com/2019).
 ### Please leave a star if these are helpful to you or if you learned anything new from my code!
