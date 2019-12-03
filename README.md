@@ -4,6 +4,32 @@
 ### Please leave a ⭐ if these are helpful to you or if you learned anything new from my code!
 >Note: Although all of my files are named either **part1.java** or **part2.java**, the actual code will work only in a file named as **Solution.java**. This is to make it easier for you to distinguish what file accomplishes what task.
 ---
+## Notes
+* Day 01: 0 Points, started late.
+* Day 02: 0 Points, started late.
+* Day 03: 47 Points, 0 Points on part 2 due to a bug.
+* Day 04:
+* Day 05:
+* Day 06:
+* Day 07:
+* Day 08:
+* Day 09:
+* Day 11:
+* Day 12:
+* Day 13:
+* Day 14:
+* Day 15:
+* Day 16:
+* Day 17:
+* Day 18:
+* Day 19:
+* Day 20:
+* Day 21:
+* Day 22:
+* Day 23:
+* Day 24:
+* Day 25:
+---
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also made Vanilla JS, PHP Sadness, and lots of other things. You can find me on Twitter and GitHub.
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
