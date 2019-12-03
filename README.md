@@ -3,7 +3,7 @@
 ### The programs are split up into days just as they are on the [Advent of Code website](https://adventofcode.com/2019).
 ### Please leave a ⭐ if these are helpful to you or if you learned anything new from my code!
 >Note: Although all of my files are named either **part1.java** or **part2.java**, the actual code will work only in a file named as **Solution.java**. This is to make it easier for you to distinguish what file accomplishes what task.
-<br>
+---
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also made Vanilla JS, PHP Sadness, and lots of other things. You can find me on Twitter and GitHub.
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
