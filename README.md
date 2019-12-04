@@ -8,7 +8,7 @@
 * Day 01: 0 Points, started late.
 * Day 02: 0 Points, started late.
 * Day 03: 47 Points on part 1, 0 Points on part 2 due to a bug.
-* Day 04:
+* Day 04: 81 Points on part 1 (20th Place!!!), 0 Points on part 2 due to small brain.
 * Day 05:
 * Day 06:
 * Day 07:
