@@ -4,7 +4,7 @@
 ### Please leave a ⭐ if these are helpful to you or if you learned anything new from my code!
 >Note: Although all of my files are named either **part1.java** or **part2.java**, the actual code will work only in a file named as **Solution.java**. This is to make it easier for you to distinguish what file accomplishes what task.
 ---
-## Leaderboard Spot: N/A
+## Leaderboard Spot: Top 200-ish?
 ## Notes
 * Day 01: 0 Points, started late. ⭐⭐
 * Day 02: 0 Points, started late. ⭐⭐
