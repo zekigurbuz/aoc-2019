@@ -11,7 +11,7 @@
 * Day 03: 47 Points on part 1, 0 Points on part 2 due to a bug. ⭐⭐
 * Day 04: 81 Points on part 1 (20th Place!!!), 0 Points on part 2 due to small brain. ⭐⭐
 * Day 05: 0 Points, absolute fail due to lots and lots of bugs :( ⭐⭐
-* Day 06:
+* Day 06: 0 Points on part 1, 1 Point on part 2 (Wow! yayyy!) ⭐⭐
 * Day 07:
 * Day 08:
 * Day 09:
