@@ -12,7 +12,7 @@
 * Day 04: 81 Points on part 1 (20th Place!!!), 0 Points on part 2 due to small brain. ⭐⭐
 * Day 05: 0 Points, absolute fail due to lots and lots of bugs :( ⭐⭐
 * Day 06: 0 Points on part 1, 1 Point on part 2 (Wow! yayyy!) ⭐⭐
-* Day 07: 0 Points, didn't compete as I had an IRL CS contest next day.
+* Day 07: 0 Points, didn't compete as I had an IRL CS contest next day. ⭐⭐
 * Day 08: 0 Points, didn't compete due to being tired. ⭐⭐
 * Day 09:
 * Day 11:
